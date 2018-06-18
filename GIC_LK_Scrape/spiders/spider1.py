@@ -1,6 +1,4 @@
 import scrapy
-
-
 from scrapy.loader import ItemLoader
 import json
 
@@ -13,7 +11,9 @@ class QuotesSpider(scrapy.Spider):
 
     def parse(self, response):
         next_page = response.css('a::attr(href)').extract()
-        print("URL: ---------------------------------------------------------------------" + response.request.url)
+        # print(next_page)
         for page in next_page:
-            next_page = response.urljoin(page)
-            yield scrapy.Request(next_page, callback=self.parse)
+            pageToGo = response.urljoin(page)
+            print("URL: ---------------------------------------------------------------------")
+            print(pageToGo)
+            yield scrapy.Request(pageToGo, callback=self.parse)

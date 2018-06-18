@@ -1,11 +1,9 @@
-# import re
-# pr = "\t\ttryjkjgkjk\n\n\n\n\n\n\n\nlprof\nname of the"
-# # qe = pr.replace('\t', '')
-# # print(re.sub(r'(.)\1+', r'\1\1', qe))
-# # print(re.sub(r'\n', ':', qe))
-#
-# #to = 'aannnndddddddddnnfffff'
-# print(re.sub(r'(\n)\1*', '\n', pr))
+import re
+pr = "Eranga\n \n\n\n\n\n\n\nlprof\n\n\n\n\n\n\n\n\n\n \n \nname of the"
+qe = pr.replace('\t', '')
+
+first = re.sub(r'(\s*\n\s*)\1*', '\n', qe)
+print(first)
 
 # from collections import defaultdict
 #
