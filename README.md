@@ -1,4 +1,4 @@
-**Search For Government Information**
+**Search Government Information (CS4642-GOV_INFO_Search)**
 
 All the documents in the domain of gic.gov.lk is scraped and stored to
 build the search index.
