@@ -1,0 +1,977 @@
+
+The Government Information Center
+Home
+A-Z Index
+Organizations
+Gov Forms
+About Us
+GovSMS
+DownloadsGIC Manual TemplatesSinhala Template
+English Template
+Tamil Template
+GIC Annual ReportsGIC Annual Report 2009
+Outcome Evaluation Report of GIC 2010
+GIC Annual Report 2013
+Call Center StatisticsYear 2011 / 2012
+Monthly PerformanceProgress - January to April 2013
+October 2013
+November 2013
+December 2013
+GIC Web Statistics2013
+Right to Information ActRTI ENG
+RTI SIN
+RTI TAM
+GalleryPicture Gallery
+Video Gallery
+Audio Gallery
+Help
+YOU ARE HERE:
+Home  Bureaus  Sri Lanka Bureau of Foreign Employment
+Sri Lanka Bureau of Foreign Employment No.234,
+Denzil Kobbekaduwa Mawatha,koswatta,
+Battaramulla.Head of the Organization ChairmanContact : +94 11-2867599  Fax : +94 11 2864141Contact PersonMr. A.K.U. RohanaDesignation : Deputy General Manager (Information Technology)Tel : Tel :+94  112 867976  Fax:+94 112 866002General InformationTelephones : +94-11-2864101-5 ,+94 11 2880500Fax Nos : +94-11-2880500Email : chmn@slbfe.lkWebsite : www.slbfe.lkOther Office Details:
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+"Sahanapiyasa" Unit:
+Tel : +94 112 259341, +94 112 259954
+Fax :+94 112 259953
+24 Hour Service Centre:
+Tel : +94 112 879900 , +94 112 879901, +94 112 879902
+Fax : +94 112 879903
+E-mail : infor_center@slbfe.lk
+Contact Details of Branch Offices
+Regional Office
+Address
+Designation
+Telephone No.
+Fax No.
+Email Address
+Anuradhapura
+Muditha Mw, Anuradhapura
+OIC
+025 2223499
+0252237995
+025 2223499
+provi_apura@slbfe.lk
+Badulla
+No 17/3 Mahiyangana Rd Badulla.
+Manager
+055 -3012315
+0553053760
+0552231766
+provi_badulla@slbfe.lk
+Kandy
+No 353, Kehelwala, Kiribathkumbura, Kandy
+OIC
+081 2068101-105
+081-3838761
+0812068103
+provi_kandy@slbfe.lk
+Kurunegala
+No235/32, Vijayayaba Mw, Negambo Rd, Kurunegala
+Act .Manager
+037- 2223661
+037-2220441
+037-3611794
+037 2223465
+provi_kgala@slbfe.lk
+Rathnapura
+No.6/A, Bandaranayaka Mw.,Rathnapura
+Manager
+045 2223077
+0452230105
+045 2223077
+provi_rpura@slbfe.lk
+Vavuniya
+No.56, Station Rd, Veirapuliyankulama Vavuniya.
+Act. Manager
+024 2225909
+024 2225909
+provi_vavunia@slbfe.lk
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+table.MsoTableGrid
+{mso-style-name:"Table Grid";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-unhide:no;
+border:solid black 1.0pt;
+mso-border-themecolor:text1;
+mso-border-alt:solid black .5pt;
+mso-border-themecolor:text1;
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-border-insideh:.5pt solid black;
+mso-border-insideh-themecolor:text1;
+mso-border-insidev:.5pt solid black;
+mso-border-insidev-themecolor:text1;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+table.MsoTableGrid
+{mso-style-name:"Table Grid";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-unhide:no;
+border:solid black 1.0pt;
+mso-border-themecolor:text1;
+mso-border-alt:solid black .5pt;
+mso-border-themecolor:text1;
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-border-insideh:.5pt solid black;
+mso-border-insideh-themecolor:text1;
+mso-border-insidev:.5pt solid black;
+mso-border-insidev-themecolor:text1;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+table.MsoTableGrid
+{mso-style-name:"Table Grid";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-unhide:no;
+border:solid black 1.0pt;
+mso-border-themecolor:text1;
+mso-border-alt:solid black .5pt;
+mso-border-themecolor:text1;
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-border-insideh:.5pt solid black;
+mso-border-insideh-themecolor:text1;
+mso-border-insidev:.5pt solid black;
+mso-border-insidev-themecolor:text1;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+table.MsoTableGrid
+{mso-style-name:"Table Grid";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-unhide:no;
+border:solid black 1.0pt;
+mso-border-themecolor:text1;
+mso-border-alt:solid black .5pt;
+mso-border-themecolor:text1;
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-border-insideh:.5pt solid black;
+mso-border-insideh-themecolor:text1;
+mso-border-insidev:.5pt solid black;
+mso-border-insidev-themecolor:text1;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+table.MsoTableGrid
+{mso-style-name:"Table Grid";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-unhide:no;
+border:solid black 1.0pt;
+mso-border-themecolor:text1;
+mso-border-alt:solid black .5pt;
+mso-border-themecolor:text1;
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-border-insideh:.5pt solid black;
+mso-border-insideh-themecolor:text1;
+mso-border-insidev:.5pt solid black;
+mso-border-insidev-themecolor:text1;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+table.MsoTableGrid
+{mso-style-name:"Table Grid";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-unhide:no;
+border:solid black 1.0pt;
+mso-border-themecolor:text1;
+mso-border-alt:solid black .5pt;
+mso-border-themecolor:text1;
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-border-insideh:.5pt solid black;
+mso-border-insideh-themecolor:text1;
+mso-border-insidev:.5pt solid black;
+mso-border-insidev-themecolor:text1;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+District Office &amp; Training Centres
+District Office Training Centre
+Address
+Telephone No.
+Fax No.
+Email Address
+Ampara
+23/58 A, Gamunupura, Ampara
+063 2223413
+063 2222188
+dct_ampara@slbfe.lk
+Batticaloa
+No 435/11,Kannakai Amman Kovil Rd.,Batticaloa.
+065 2227547
+065 2227547
+dct_batic@slbfe.lk
+Chilaw
+Maikkulama, Colombo Road, Chilaw
+032 2224056
+032 2221202
+dct_chilaw@slbfe.lk
+Dambulla
+No. 03, NissankaMawatha, Dambulla
+066 2284074
+066 2284808
+dct_damb@slbfe.lk
+Galle
+No.289, Colombo Road, Mahamodara, Galle.
+091 2235828
+091 2235828
+dct_galle@slbfe.lk
+Jaffna
+No. 56, Chappal Street, Jaffna.
+021 2220682
+0213202045
+021 2220682
+dct_jaffna@slbfe.lk
+Trincomalee
+344, Near the Timber Corporation, Kandy Road, 4th Mile Post, Trincomalee.
+026 2242107
+026 2242107
+dct_trinco@slbfe.lk
+Polonnaruwa
+No 63, New Town , Polonnaruwa
+027-2227499
+027-2227499
+dct_pollonaruwa@slbfe.lk
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:Latha;
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+Other Branch Offices
+Office
+Address
+Telephone No.
+Fax No.
+Email Address
+Sahanapiyasa
+101 5/3, Negombo Road, Katunayake.
+011 2259341
+011 2259953
+sahanapiyasa@slbfe.lk
+Air port Unit Katunayake
+Bandaranayake International Airport- Katunayake
+011 2259871
+0112251596
+mgr_apt.ktn@slbfe.lk
+Air port Unit Mattala
+Mahinda Rajapaksha International Airport-Mattala
+0472031888
+047-2031888
+mgr_apt.mattala@slbfe.lk
+Migrant Recourse Centers
+District Office Training Centre
+Address
+Telephone No.
+Fax No.
+Email Address
+Mathugama
+Mathugama waththa,Bandaranayaka Mawatha,Mathugama
+0342247188
+0342247188
+mrc_mathugama@slbfe.lk
+Tangalle
+Yayawaththa, Godigamuwa,Tangalle
+0472240667
+0472241477
+dct_tgala@slbfe.lk
+Training Centers
+Training Centre
+Address
+Telephone No.
+Fax No.
+Email Address
+Kurunegala
+208 A, Colombo Road, Wehera, Kurunegala.
+037 2232640
+0372232640
+dct_kgala@slbfe.lk
+Pannipitiya
+No.18, Old Road, Pannipitiya.
+011 2846904
+011 2846904
+dct_pannipitiya@slbfe.lk
+Ratnapura
+221/A, Pothgul Vihara Mawatha, Gatangama, Ratnapura.
+045 2222569
+045 2224062
+dct_rpura@slbfe.lk
+Seeduwa
+No. 2/311, Colombo rd , Seeduwa , Katunayake.
+0112254840
+0112254840
+dct_Seeduwa@ slbfe.lk
+SLBFE Telephone Directory
+General Nos:-0112880500, 2864101, 2864103-5 / 2865775-6 Fax:-2864141
+Hot Line :- 1989 / 0115649196 Web :- WWW.slbfe.lk E-mail :-chmn@slbfe.lk
+Designation
+Ext
+Staff
+Tel
+Fax
+Res
+Email
+Chairman
+307
+343
+011-2867599
+011-2864141
+-
+chmn@slbfe.lk
+Working Director
+303
+319
+011-2882230
+011-2864281
+-
+wd@slbfe.lk
+Additional GeneralManager(Corporate Functions)
+337
+338
+011-2864135
+011-2864135
+agmca@slbfe.lk
+Additional General Manager
+(Local Affairs )
+321
+327
+011-2076056
+011-22076057
+agmla@slbfe.lk
+Actg. Additional General Manager
+(International Affairs)
+339
+356
+011-2872399
+011-2872399
+011-2893077
+addgmia@slbfe.lk
+Chairman’s Sec.
+358
+308
+011-2867599
+011-2864141
+-
+sec_chmn@slbfe.lk
+chm_pro@slbfe.lk
+Board Sec.
+306
+-
+011-2864131
+011-2864131
+011-3069018
+sec_board@slbfe.lk
+All Deputy General Managers
+Designation
+Ext
+Staff
+Tel
+Fax
+Res
+Email
+Finance
+351
+348
+0112864120
+0112864120
+dgm_fin@slbfe.lk
+Legal &amp; Investigation
+251
+251
+0112864119
+0112873038
+dgm_legal@slbfe.lk
+Internal Audit
+365
+202
+0112864145
+0112864145
+dgm_int.audit@slbfe.lk
+Admin &amp; HR
+326
+357
+0112864127
+0112882294
+dgm_admin@slbfe.lk
+Foreign Relations
+451
+435
+0112871700
+0112864126
+dgm_fr@slbfe.lk
+Social Development &amp; Welfare
+107
+129
+0112886540
+0112886540
+dgm_wel@slbfe.lk
+Recruitment &amp; Marketing
+276
+279
+0112872124
+0112885171
+dgm_rec@slbfe.lk
+Training
+368
+368
+0112884771
+0112872183
+dgm_training@slbfe.lk
+Information Technology
+421
+420
+0112866002
+0112866002
+dgm_it@slbfe.lk
+Approval and Airport
+200
+253
+0112866856
+0112864115
+dgm_approval@slbfe.lk
+Planning
+345
+348
+0112886814
+0112886813
+dgm_planning@slbfe.lk
+Conciliation
+327
+254
+0112864132
+0112864130
+dgm_planning@slbfe.lk
+All Managers
+Administration &amp; Human Resources
+334
+315
+0112880553
+0112882294
+0112775314
+mgr_adhr@slbfe.lk
+Airport
+-
+-
+0112259871
+0112251596
+0112842314
+mgr_airport@slbfe.lk
+Conciliation I
+272
+284
+0112864112
+0112882292
+0112882292
+mgr_concil@slbfe.lk
+Conciliation II
+239
+286
+0112864113
+0112864133
+0112506510
+mgr_cons2@slbfe.lk
+Final Approval
+226
+235
+0112864108
+0112866003
+0112400788
+mgr_fapproval@slbfe.lk
+Finance
+205
+208
+0112864134
+0112880559
+-
+mgr_finance@slbfe.lk
+First Approval
+229
+227
+0112864107
+0112864138
+-
+mgr_firstapp@slbfe.lk
+Overseas Administration &amp; FR
+451
+475
+0112871700
+0112864126
+0112334353
+mgr_fr@slbfe.lk
+Foreign Relations–II
+455
+402
+0112864114
+0112864114
+0113175914
+mgr_fr2@slbfe.lk
+Internal Audit
+213
+203
+0112864128
+0112864128
+0115649114
+int_audit@slbfe.lk
+Legal
+236
+-
+0112864119
+0112864119
+0113160542
+mgr_legal@slbfe.lk
+Licensing
+112
+136
+0112864109
+0112880556
+0452224595
+mgr_licence@slbfe.lk
+Maintenance
+253
+255
+0112864125
+0112864125
+0452224595
+mgr_maint@slbfe.lk
+Marketing
+132
+131
+0112864150
+0112864150
+-
+mgr_mkt@slbfe.lk
+Planning
+458
+457
+0112864106
+0112864106
+-
+mgr_planning@slbfe.lk
+Procurement
+322
+328
+0112880550
+0112880550
+0332285201
+mgr_supply@slbfe.lk
+Publicity &amp; Public Relation
+111
+110
+0112880551
+0112880551
+0342247368
+Ext:212
+mgr_publ@slbfe.lk
+Recruitment
+350
+355
+0112864124
+0112864124
+0112563365
+mgr_rec@slbfe.lk
+Research
+418
+422
+0112864116
+0112864116
+0112864116
+mgr_res@slbfe.lk
+Sociology &amp;
+Re-Integration
+146
+148
+0112864127
+0112864127
+0453455373
+sociologist@slbfe.lk
+Training (Domestic)
+279
+237
+0112866001
+0112864123
+0382284097
+mgr_trdomestic@slbfe.lk
+Investigation
+400
+401
+0112864118
+0112864118
+0382290170
+mgr_invest@slbfe.lk
+Training (Non.Domestic)
+-
+-
+0112791833
+0112791833
+-
+-
+Transport
+456
+417
+0112864139
+0112880562
+-
+mgr_trans@slbfe.lk
+Welfare
+106
+107
+0112864117
+0112867975
+-
+mgr_wel@slbfe.lk
+R. O. Anuradhapura
+-
+-
+0254581019
+0252223499
+-
+mgr.provi_apura@slbfe.lk
+R. O. Badulla
+-
+-
+0552222095
+0552222095
+-
+mgr.provi_badulla@slbfe.lk
+R. O. Kurunegala
+-
+-
+0372223465
+0372223465
+-
+provi_kgala@slbfe.lk
+R. O. Kandy
+-
+-
+0812224902-5
+0812224901
+-
+Provi_kandy@slbfe.lk
+R. O. Rathnapura
+-
+-
+0452223077
+0452223077
+-
+mgr_rpura@slbfe.lk
+MRC Mathugama
+-
+-
+0342247188
+0342247188
+-
+mrc-matugama@slbfe.lk
+Services Offered:   Procedures for korean recruitment   Training for foreign employment   Register a migrant worker   How to obtaining a Licence for a new recruitment agency   Renewing Licenses of the Foreign Recruitment Agencies   Welfare facilities for migrant workers   Procedures for complaints   Services of Airport and Sahana Piyasa welfare centre
+Page Last Updated Date :2018-05-18 11:03:45
+Contact Us
+Digital Intermediary Services
+&nbsp;
+&raquo;
+Grama Niladari
+&nbsp;
+&raquo;
+Grama Niladari-->
+&nbsp;
+&raquo;
+Medical Health Officer
+-->
+&nbsp;
+&raquo;
+Medical Health Officer
+&nbsp;
+&raquo;
+Public Health Inspector
+&nbsp;
+&raquo;
+Public Health Midwife
+&nbsp;
+&raquo;
+Police Station
+-->
+»
+Train Schedule
+»
+Find More e-Services
+Most Popular
+1) Obtaining a New Identity Card2) Reservation of Seats  in Trains3) Obtaining a New Driving License4) Registration of Transfer of Motor Vehicle5) Obtain a Certified Copy of the Certificate of Marriage1) Obtaining a New Identity Card2) Reservation of Seats  in Trains3) Obtaining a New Driving License4) Registration of Transfer of Motor Vehicle5) Obtain a Certified Copy of the Certificate of Marriage1) Obtaining a New Identity Card2) Reservation of Seats  in Trains3) Obtaining a New Driving License4) Registration of Transfer of Motor Vehicle5) Obtain a Certified Copy of the Certificate of Marriage1) Obtaining a New Identity Card2) Reservation of Seats  in Trains3) Obtaining a New Driving License4) Registration of Transfer of Motor Vehicle5) Obtain a Certified Copy of the Certificate of Marriage1) Obtaining a New Identity Card2) Reservation of Seats  in Trains3) Obtaining a New Driving License4) Registration of Transfer of Motor Vehicle5) Obtain a Certified Copy of the Certificate of Marriage
+What's New
+Regional DevelopmentBusiness Library ServiceExport Oriented Enterprise Development
+Stay Connected
+Last Update : 2018-06-19
+Number of visitors:Online Now   : 112
+The Government Information Center
+HELP   CONTACT US
+© COPYRIGHT 2009 GIC (ALL RIGHTS RESERVED)DEVELOPED IN ASSOCIATION WITH ICTA
+

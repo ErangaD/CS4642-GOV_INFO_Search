@@ -1,0 +1,311 @@
+
+The Government Information Center
+முன்பக்கம்
+அ - ஃ வரை
+நிறுவனங்கள்
+தள வரைபடம்
+எம்மைப்பற்றி
+GovSMS
+இறக்கம்GIC Manual TemplatesSinhala Template
+English Template
+Tamil Template
+GIC Annual ReportsGIC Annual Report 2009
+Outcome Evaluation Report of GIC 2010
+GIC Annual Report 2013
+Call Center StatisticsYear 2011 / 2012
+Monthly PerformanceProgress - January to April 2013
+October 2013
+November 2013
+December 2013
+GIC Web Statistics2013
+தகவல் உரிமை செயல்ஆங்கிலம்
+சிங்களம்
+தமிழ்
+காட்சியகம்படக் கூடம்
+வீடியோ கூடம்
+Audio Gallery
+உதவி
+நீங்கள் இருப்பது இங்கே:
+வலைமனை  ஆணைக்குழு  இலங்கை சட்ட உதவிக்குழு
+இலங்கை சட்ட உதவிக்குழுஇலக்கம் 129/5, உயர் நீதிமன்ற கட்டிடம், ஹல்ப்ஸ்டார்ப் வீதி, கொழும்பு-12
+நிறுவனத்தின் பிரதானி ChairmanMr.Rohan Sahabandu PCதொடர்பு : 011-2433618
+011-2395894 தொடர்பு கொள்ளவேண்டியவர்திரு. S S.  விஜேரத்னேபதவியின் பெயர் : Legal Officer தொலைபேசி : +94 11 2433618பொது தகவல்Telephones : 0094-11-2433618,0094-011-2395894Fax Nos : 0094-11-2433618Email : legalaid@sltnet.lkWebsite : www.legalaid.gov.lkOther Office Details:
+No
+Center
+Telephone
+01
+Attanagalla
+033-2297020
+02
+Awissawella
+036-2233857
+03
+Anuradhapura
+025-2224465
+04
+Ampara
+063-2223496
+05
+Akkaraipattu
+067-2279462
+06
+Bandarawela
+057-2224733
+07
+Balapitiya
+091-2255753
+08
+Battaramulla
+011-2877687
+09
+Battcaloa
+065-2225399
+10
+Baddegama
+091-2292051
+11
+Badulla
+055-2225759
+12
+Balangoda
+045-2289099
+13
+Chilaw
+032-2222175
+14
+Chawakachcheri
+021-2270882
+15
+Dambulla
+066-2284551
+16
+Deiyandara
+041-2268077
+17
+Deniyaya
+041-2271128
+18
+Embilipitiya
+047-2230299
+19
+Galgamuwa
+037-2253290
+20
+Gampaha
+033-2248804
+21
+Galle
+091-2226124
+22
+Hatton
+051-2225238
+23
+Hambantota
+047-2221092
+24
+Horana
+034-2265244
+25
+Homagama
+011-2748813
+26
+Hingurakgoda
+027-2245521
+27
+Jaffna
+021-2224545
+28
+Kurunegala
+037-2229641
+29
+Kegalle
+035-2231790
+30
+Kuliyapitiya
+037-2284611
+31
+Kebethigollawa
+025-2298101
+32
+Kanthale
+026-2234521
+33
+Kilinochchi
+021-2285618
+34
+Kaduwela
+011-2548150
+35
+Kadawatha
+011-2922440
+36
+Kalmunai
+067-2223710
+37
+Kalutara
+034-2222017
+38
+Kandy
+081-2388978
+39
+Kakirawa
+025-2263536
+40
+Monaragala
+055-2276891
+41
+Matara
+041-2233815
+42
+Maho
+037-2275075
+43
+Mathugama
+034-2249262
+44
+Marawila
+032-2254443
+45
+Mawanella
+035-2247272
+46
+Mt.Laviniya
+011-2718708
+47
+Mannar
+023-2222045
+48
+Muthur
+026-2238777
+49
+Mullaithivu
+021-2290077
+50
+Minuwangoda
+011-2297790
+51
+Mahiyanganaya
+055-2258332
+52
+Matale
+066-2224828
+53
+Negombo
+031-2222779
+54
+Nuwara Eliya
+052-2235260
+55
+Nikaweratiya
+037-2260203
+56
+Nugegoda
+011-2809068
+57
+Nawalapitiya
+054-2224227
+58
+Polonnaruwa
+027-2226572
+59
+Panadura
+038-2244822
+60
+Pothuvil
+0632248485
+61
+Point Pedro
+021-2260211
+62
+polgahawela
+037-2243039
+63
+Pugoda
+011-2405333
+64
+Rathnapura
+045-2226899
+65
+Thambuththeygama
+025-2276259
+66
+Thissamaharama
+047-2239611
+67
+Tangalle
+047-2240122
+68
+Trincomalee
+026-2226328
+69
+Vavuniya
+024-2221863
+70
+Valachchenai
+065-2258349
+71
+Warakapola
+037-2277075
+72
+Welimada
+057-2244860
+73
+Walasmulla
+047-2245566
+74
+Wallawaya
+055-2274466
+75
+Wariyapola
+037-2268199
+-
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-style-parent:"";
+font-size:10.0pt;"Times New Roman","serif";}
+table.MsoTableGrid
+{mso-style-name:"Table Grid";
+border:solid windowtext 1.0pt;
+font-size:10.0pt;"Times New Roman","serif";}
+அளிக்கப்படும் சேவைகள்:   Complain about Corruptions   சட்ட உதவி   Obtain Civil Documentation    Legal Aid for Consumers   Legal Aid for disable person   Legal Aid for Elders   Legal Aid for IDP   Legal Aid for Migrant Workers   Report Human Rights violations   Request Awareness Programmes
+பக்கம் கடைசியாக புதுப்பிக்கப்பட்ட திகதி :2014-06-05 13:46:33
+தொடர்பு
+அருகில் உள்ளதை தேடுக
+&raquo;
+கிராம சேவகர்
+&raquo;
+உடல் நல வைத்திய அதிகாரி
+-->
+»
+உடல் நல வைத்திய அதிகாரி
+»
+பொது சுகாதார கண்காணிப்பாளர்
+»
+குடும்ப சுகாதார மருத்துவச்சி
+»
+பொலிஸ் நிலையம்
+»
+புகையிரத நேர அட்டவணை
+&raquo;
+&nbsp;தபால் நிலையம்
+-->
+மிகவும் ஜனரஞ்சகமானவை
+1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.
+புதிய சேவைகள்
+பிரதேச அபிவிருத்திகள்வர்த்தக நூலக சேவைகள்Export Oriented Enterprise Development
+Stay Connected
+கடைசியாக புதுப்பிக்கப்பட்டது: 2018-06-19
+பார்வையிட்டவர்களின் எண்ணிக்கை:இணையத்தளத்துடன் இணைந்துளவர்கள்: 108
+The Government Information Center
+உதவி   தொடர்பு
+© பதிப்புரிமை 2009 GIC (முழு பதிப்புரிமையுடையது)கூட்டமைப்பு ICTA யுடன் அபிவிருத்தி செய்யப்பட்டது
+

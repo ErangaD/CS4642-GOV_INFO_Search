@@ -1,0 +1,422 @@
+
+The Government Information Center
+முன்பக்கம்
+அ - ஃ வரை
+நிறுவனங்கள்
+தள வரைபடம்
+எம்மைப்பற்றி
+GovSMS
+இறக்கம்GIC Manual TemplatesSinhala Template
+English Template
+Tamil Template
+GIC Annual ReportsGIC Annual Report 2009
+Outcome Evaluation Report of GIC 2010
+GIC Annual Report 2013
+Call Center StatisticsYear 2011 / 2012
+Monthly PerformanceProgress - January to April 2013
+October 2013
+November 2013
+December 2013
+GIC Web Statistics2013
+தகவல் உரிமை செயல்ஆங்கிலம்
+சிங்களம்
+தமிழ்
+காட்சியகம்படக் கூடம்
+வீடியோ கூடம்
+Audio Gallery
+உதவி
+நீங்கள் இருப்பது இங்கே:
+வலைமனை  சபைகள்  Employees' Trust Fund Board (E.T.F)
+Employees' Trust Fund Board (E.T.F)
+1st Floor,                                                         Labour Secretariat,
+P O Box 807,
+Narahenpita,
+Colombo 5,
+Sri Lanka.இடத்தின் வரைப்படம்நிறுவனத்தின் பிரதானி Chairman/CEOMr.Mahinda Madihahewaதொடர்பு : +94-11-2503410 தொடர்பு கொள்ளவேண்டியவர்Mr. H M Seneviratnaபதவியின் பெயர் : Asst. General Manager (Member Services)தொலைபேசி : +94-11-2368037பொது தகவல்Telephones : +94-11-2581704 +94-11-2503941 +94-11-2503943 +94-11-2503951 +94-11-2588709 +94-11-2589937 +94-11-2503936 +94-11-4519627 +94-11-4519628 +94-11-4519631Fax Nos : +94-11-2503917Email : inquiry@etfb.lkWebsite : www.etfb.lkOther Office Details:
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri",sans-serif;
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:"Iskoola Pota";
+mso-bidi-theme-font:minor-bidi;
+mso-bidi-language:AR-SA;}
+Top Management
+Top Management
+Name
+Designation
+Tel.No.
+Mr.   Mahinda Madihahewa
+Chairman   / CEO
++94-11-2503410
+Mr.   P. B. Medagedara
+Working   Director
++94-11-2368061
+Mrs.   R N Gnanasekara
+Additional   General Manager
++94-11-2368525
+Mr.   W.S. Dissanayake
+DGM   (Member Services)
++94-11-2368485
+Mr.   L H Nihal
+DGM   (Administration &amp; Human Resources)
++94-11-2806434
+Mr.   K S Welivita
+DGM (Internal Audit)
++94-11-2368073
+Mr.   N W Wimalaweera
+DGM ( Finance )
++94-11-2806278
+Mr.   A J M S Jayasundara
+DGM (Collection &amp; Employer   Relations)
++94-11-2504982
+Mr.   Udaya Wickremanayake
+DGM   (Investments)
++94-11-2806277
+Mr.   C Mallikarachchi
+AGM   (Member Services)
++94-11- 2368037
+Mr.   H M Senavirathne
+AGM (Member Accounts)
++94-11-2369636
+Mr.   M S Dissanayake
+AGM   (Enforcement - Region 3 &amp; Self Employment)
++94-11-2368764
+Mr.   M A K Aluthgamage
+AGM   (Finance)
++94-11-2806574
+Miss.   H A Y R Fernando
+AGM   (Contribution Collection)
++94-11-2503911
+Mr.   W S S Dharmasiri
+AGM   (Information Technology)
++94-11-2368170
+Mrs.   E. P. S. P. Rajapathirana
+AGM   (Legal)
++94-11-2368357
+Mr.   J. K. P. Ranjith
+AGM (Enforcement - Region 1)
++94-11-2369755
+Mr.   B. R. Ariyawansa
+AGM (Enforcement - Region 2)
++94-81-2237525
+Mr.   W. R. L. De Silva
+Actg AGM (Procurement)
++94-11-2806198
+Mr.   W. Jinadasa
+AGM (Statistics)
++94-11-2806435
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin:0in;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-size:10.0pt;
+font-family:"Calibri",sans-serif;
+mso-bidi-font-family:Latha;}
+Other Offices
+Office
+Location
+Tel. Nos.
+Fax Nos.
+E mail
+Legal and
+Enforcement Office
+No.    122,
+Nawala    Road,
+Narahenpita,
+Sri    Lanka.
++94-11-2500809
++94-11-2501286
++94-11-2369897
++94-11-2500809
++94-11-2501286
++94-11-2369897
+dgmenrd@sltnet.lk
+Legal    Section
+�
++94-11-2500809
++94-11-2368159
+agmlegaldiv@etfb.lk
+mgrlegaldiv@etfb.lk
+Enforcement Section
+�
++94-11-2504982
++94-11-2368159
+ofrsharge@etfb.lkbiu@etfb.lk
+Administration &amp; HR,
+Finance , Investment and Supplies Office
+No.    44/5,
+Narahenpita    Road,
+Nawala,
+Sri    Lanka.
++94-11-2806432
++94-11-2806433
++94-11-2806435
++94-11-2806436
++94-11-2806835
++94-11-2806833
+�
+Administration    &amp; HR Division
+�
++94-11-2806434
++94-11-2806833
+dgma&amp;hr@etfb.lk
+dgmadminetfb@sltnet.lk
+mgrhr@etfb.lk
+mgra&amp;hr@etfb.lk
+Finance    Division
+�
++94-11-2806278
++94-11-2806832
+dgmfin@etfb.lk
+agmfin@etfb.lk
+mgrfin@etfb.lkequity@etfb.lk
+finance@etfb.lk
+mrtfinpay@etfb.lk
+finetfb@sltnet.lk
+finspetfb@sltnet.lk
+Investment    Division
+�
++94-11-2806277
++94-11-2806574
++94-11-2806831
+dgminv@etfb.lk
+dgminvestment @sltnet.lk
+mgrinv@etfb.lk
+Supplies    Section
+�
++94-11-2806433
++94-11-280-6833
+mgrsup@etfb.lk
+Internal Audit, Scholarship, Self  Employment &amp; Migrant Workers and Postal Office.
+92,92A, Kirula Road,
+Colombo 5,
+Sri Lanka
++94-11-2368162
++94-11-2368163
++94-11-2368176
++94-11-2368616
+�
+Internal    Audit Division
+�
++94-11-2368073
++94-11-2368073
+dgmaudit@etfb.lk
+dgmiaetfb@sltnet.lk
+mgraudit@etfb.lk
+Postal    Section
+�
++94-11-2368162
+�
+mgrpostal@etfb.lk
+Scholarship    Section
+�
++94-11-2368162
+�
+ofrschl@etfb.lk
+mgrpost@etfb.lk
+Self Employment &amp; Migrant    . Workers Section
+�
++94-11-2501082
++94-11-2501082
+agmenfslf@etfb.lk
+Regional Offices of the Board
+Regional Offices of the Board
+Location
+Tel. Nos.
+Fax Nos.
+Email
+Colombo 1 – 7
+No: 92 , Kirula Road,
+Colombo 05,
+Sri Lanka.
++94-11 2368616
++94-11 2368616
+mgrcol1_7@etfb.lk
+rocol1_7@etfb.lk
+Colombo 8 - 15
+No: 122, Nawala Road,
+Narahenpita
++94-11 2369698
++94-11 2369698
+mgrcol8_15@etfb.lk
+rocol8_15@etfb.lk
+Colombo District
+44/5, Nawala Road, Narahenpita,
+Colombo 5
++94-11 2806834
++94-11 2806834
+mgrcoldis@etfb.lk
+rocoldis@etfb.lk
+Gampaha
+32, Queens Mery Road, Wijayarama Road, Gampaha.
++94-33-2234520
++94-33 2234520
+mgrgam@etfb.lk
+rogam@etfb.lk
+�
+Kandy
+79, National Housing Secretariat Building, Yatinuwara Veediya, Kandy
++94 81-2233793
++94-812233793
+mgrkan@etfb.lk
+rokan@etfb.lk
+�
+Galle
+No: 80/C1,
+Havelock Place,
+Galle
+Sri Lanka.
++94-91-2245814
++94-91-2245814
+mgrgall@etfb.lk
+rogall@etfb.lk
+Anuradhapura
+No: 87/25, 1st Lane,
+Dharmapala Mw,
+Anuradhapura
+Sri Lanka.
+94-25-2222185
+94-25-2222185
+mgranu@etfb.lk
+roanu@etfb.lk
+Ratnapura
+Piyadasa Gems Building, 53-1/2, 2nd Floor, Senanayake Mw., Ratnapura
++94-45-2222529
++94-45-2222529
+mgrratn@etfb.lk
+roratn@etfb.lk
+Kurunegala
+27, Sri Lanka Red Cross Society Building, Kachcheri Road, Kurunegala
++94-37-2228194
++94-37-2228194
+mgrkur@etfb.lk
+rokur@etfb.lk
+Matara
+63/2, Kalidasa Road,  Matara.
++94-41-2231877
++94 41-2222625
+mgrmat@etfb.lk
+romat@etfb.lk
+Kalutara
+No: 294, Galle Rd,
+Kalutara North,
+Sri Lanka.
++94-34-2237722
++94-34-2237722
+mgrkalu@etfb.lk
+rokalu@etfb.lk
+Hatton
+90 A, Circular Road, Hatton
++94-51-2223840
++94-51-2223840
+mgrhat@etfb.lk
+rohat@etfb.lk
+Badulla
+No. 288, Keppitipola Mawatha, Badulla.
+Sri Lanka.
++94-55-2224482
++94-55-2224482
+mgrbadu@etfb.lk
+robadu@etfb.lk
+Kegalle
+247/1, Main Street, Kegalle
++94-35-2222991
++94-35-2222991
+mgrkeg@etfb.lk
+rokeg@etfb.lk
+Hambantota
+114, Gonnoruwa Rd., Baddewela, Hambantota.
++94-47-2222460
++94 47-2220655
+mgrham@etfb.lk
+roham@etfb.lk
+Ampara
+693, Malwatta Road, Ampara
++94-63-2222845
++94-63-2222845
+mgramp@etfb.lk
+roamp@etfb.lk
+Jaffna
+No.70, Martyn Road,
+Jaffna.
++94 21-2220010
+�
+mgrjaff@etfb.lk
+rojaff@etfb.lk
+Vavuniya
+691/1, Mill Road,Vavuniya
+024 2228225
+அளிக்கப்படும் சேவைகள்:   Services Provided by the Board.   Benefit Schemes Available to ETF  Members   ETF e-payment scheme   e   Services of the  ETFB   About ETF Board   Employer Details   Payment of Contributions    Employed Members   Self Employed Members   Statutory Benefits   Non Statutory Benefits   eServices
+பக்கம் கடைசியாக புதுப்பிக்கப்பட்ட திகதி :2018-04-02 05:09:29
+தொடர்பு
+அருகில் உள்ளதை தேடுக
+&raquo;
+கிராம சேவகர்
+&raquo;
+உடல் நல வைத்திய அதிகாரி
+-->
+»
+உடல் நல வைத்திய அதிகாரி
+»
+பொது சுகாதார கண்காணிப்பாளர்
+»
+குடும்ப சுகாதார மருத்துவச்சி
+»
+பொலிஸ் நிலையம்
+»
+புகையிரத நேர அட்டவணை
+&raquo;
+&nbsp;தபால் நிலையம்
+-->
+மிகவும் ஜனரஞ்சகமானவை
+1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.
+புதிய சேவைகள்
+பிரதேச அபிவிருத்திகள்வர்த்தக நூலக சேவைகள்Export Oriented Enterprise Development
+Stay Connected
+கடைசியாக புதுப்பிக்கப்பட்டது: 2018-06-19
+பார்வையிட்டவர்களின் எண்ணிக்கை:இணையத்தளத்துடன் இணைந்துளவர்கள்: 110
+The Government Information Center
+உதவி   தொடர்பு
+© பதிப்புரிமை 2009 GIC (முழு பதிப்புரிமையுடையது)கூட்டமைப்பு ICTA யுடன் அபிவிருத்தி செய்யப்பட்டது
+

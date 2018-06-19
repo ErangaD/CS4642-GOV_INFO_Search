@@ -1,0 +1,436 @@
+
+The Government Information Center
+முன்பக்கம்
+அ - ஃ வரை
+நிறுவனங்கள்
+தள வரைபடம்
+எம்மைப்பற்றி
+GovSMS
+இறக்கம்GIC Manual TemplatesSinhala Template
+English Template
+Tamil Template
+GIC Annual ReportsGIC Annual Report 2009
+Outcome Evaluation Report of GIC 2010
+GIC Annual Report 2013
+Call Center StatisticsYear 2011 / 2012
+Monthly PerformanceProgress - January to April 2013
+October 2013
+November 2013
+December 2013
+GIC Web Statistics2013
+தகவல் உரிமை செயல்ஆங்கிலம்
+சிங்களம்
+தமிழ்
+காட்சியகம்படக் கூடம்
+வீடியோ கூடம்
+Audio Gallery
+உதவி
+நீங்கள் இருப்பது இங்கே:
+வலைமனை  அமைச்சுக்கள்  Ministry of Foreign Affairs
+Ministry of Foreign Affairs
+Republic Building
+Sir Baron Jayathilake Mawatha
+Colombo 1இடத்தின் வரைப்படம்நிறுவனத்தின் பிரதானி SecretaryMr. Prasad Kariyawasamதொடர்பு : Tel :- +94 11 2 438263
+Fax:- +94 11 2 380282 தொடர்பு கொள்ளவேண்டியவர்Mr. Satya Rodrigoபதவியின் பெயர் : Director General (Public Communications)தொலைபேசி : +94 11 2439040பொது தகவல்Telephones : +94 112 325 372, +94 112 325373, +94 112 325 375Fax Nos : +94 112 446 091, +112 333 450, +94 112 430 220Email : cypher@mfa.gov.lk, sfa@mfa.gov.lkWebsite : www.mfa.gov.lkOther Office Details:Divisions
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Consular Affairs Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+East Asia and Pacific Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Africa Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Economic Affairs Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Europe, Americas and CIS Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Finance Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+General Administration Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Internal Audit and O &amp; M      Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+IT Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Legal Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Middle East Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Overseas Administration Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Protocol Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+Public Communications Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+SAARC Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+United Nations, Multilateral      Affairs, Human Rights and Conference Division
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+SI-LK
+South Asia
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-language:TA;}
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-language:TA;}
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-language:TA;}
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-language:TA;}
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-language:TA;}
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-language:TA;}
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-language:TA;}
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-language:TA;}
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;
+mso-bidi-language:TA;}
+Other Institutions
+Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKIIRSS)
+Officers of Indian Ocean Marine Affairs Co-operation (IOMAC)
+Bandaranaike International Diplomatic Training Institute (BIDTI)
+Missions
+Sri Lanka Missions Abroad
+Diplomatic Missions in Sri Lanka
+அமைச்சர்Hon. Tilak Marapanaதொடர்பு :
+பிரதி அமைச்சர்Hon. Vasantha Senanayakeதொடர்பு :
+அளிக்கப்படும் சேவைகள்:   ஆவணங்களை உறுதிப்படுத்துதல்   வெளிநாடுகளில்  இடருக்குள்ளான  இலங்கையர்களைத்  தாய்நாட்டிற்குத் திருப்பி  அனுப்புதல்   வெளிநாடுகளில் இறப்பெய்திய இலங்கைப் பிரசைகளின் பூதவுடலை தாய் நாட்டிற்கு அனுப்புதல்   நட்ட ஈடு, இரத்தப் பணம் மற்றும் பிற சட்ட முறை  கொடுப்பனவுகளை  ஒருங்கிணைத்துச் செயற்படல்   நிர்க்கதிக்குள்ளான மீனவர்களைத் தாய்நாட்டிற்கு அனுப்புதல்   இலங்கைக்கு  வெளியில்  ஏற்படும்  பிறப்பு,  திருமணம்  மற்றும்  இறப்பு ஆகியவற்றைப்  பதிவு செய்தல்   வெளிநாடுகளிலுள்ள இலங்கையர்களிடமிருந்தான வேறு ஏதும் முறைப்பாடுகள்   வெளிநாடுகளிலிருந்து பொலிஸ் துறையினரின் இசைவுச் சான்றிதழ் பெறல்   களவு போன அல்லது காணாமல் போன கடவுச்சீட்டு – வெளிநாடு
+பக்கம் கடைசியாக புதுப்பிக்கப்பட்ட திகதி :2018-06-06 08:55:26
+தொடர்பு
+அருகில் உள்ளதை தேடுக
+&raquo;
+கிராம சேவகர்
+&raquo;
+உடல் நல வைத்திய அதிகாரி
+-->
+»
+உடல் நல வைத்திய அதிகாரி
+»
+பொது சுகாதார கண்காணிப்பாளர்
+»
+குடும்ப சுகாதார மருத்துவச்சி
+»
+பொலிஸ் நிலையம்
+»
+புகையிரத நேர அட்டவணை
+&raquo;
+&nbsp;தபால் நிலையம்
+-->
+மிகவும் ஜனரஞ்சகமானவை
+1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.1) முதன்முறை அடையாள அட்டையைப் பெறுவதற்கு இருக்க வேண்டிய தகைமைகள்2) நகரங்களுக்கிடையிலான புகையிரதங்களிலும் தொலைப் பயணப் புகையிரதங்களிலும் ஆசனங்களை ஒதுக்கிக் கொள்ளல்.3) புதிய ஓட்டுனர் உரிமம் பெறுதல்4) மோட்டார் வாகன மாற்றத்திற்கானப் பதிவு5) விவாகச் சான்றிதழின் பிரதியினை  பெற்றுக்கொள்ளல்.
+புதிய சேவைகள்
+பிரதேச அபிவிருத்திகள்வர்த்தக நூலக சேவைகள்Export Oriented Enterprise Development
+Stay Connected
+கடைசியாக புதுப்பிக்கப்பட்டது: 2018-06-19
+பார்வையிட்டவர்களின் எண்ணிக்கை:இணையத்தளத்துடன் இணைந்துளவர்கள்: 107
+The Government Information Center
+உதவி   தொடர்பு
+© பதிப்புரிமை 2009 GIC (முழு பதிப்புரிமையுடையது)கூட்டமைப்பு ICTA யுடன் அபிவிருத்தி செய்யப்பட்டது
+

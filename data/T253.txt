@@ -1,0 +1,489 @@
+
+The Government Information Center
+මුල් පිටුව
+අ - ෆ දක්වා
+ආයතන
+ආකෘති පත්‍ර
+අප ගැන
+GovSMS
+භාගත කිරීම්රා. තෝ. කේ. අත්පොත් ආකෘතිසිංහල ආකෘතිය
+ඉංග්‍රීසි ආකෘතිය
+දෙමළ ආකෘතිය
+රා. තො. කේ. වාර්ෂික වාර්ථාරා. තො. කේ. වාර්ෂික වාරථාව 2009
+Outcome Evaluation Report of GIC 2010
+GIC Annual Report 2013
+රා. තො. කේ. ඉදිරිපත් කිරීම්2011 / 2012
+Monthly Performance2013 ප්‍රගතිය - ජනවාරි සිට අප්‍රේල්
+October 2013
+November 2013
+December 2013
+වෙබ් ස්ථිතික2013
+තොරතුරු දැනගැනීමේ අයිතිවාසිකම් පිලිබඳ පනතඉංග්‍රීසි
+සිංහල
+දෙමළ
+මාධ්‍ය ගැලරියපින්තූර ගැලරිය
+වීඩියෝ ගැලරිය
+ශ්‍රව්‍ය ගැලරිය
+උදව්
+ඔබ මෙතනයි:
+මුල් පිටුව  සංස්ථා  State Development and Construction Corporation
+State Development and Construction Corporation
+No.07, Borupana Road, Ratmalanaමාර්ග සිතියමආයතන ප්‍රධානී ChairmanEng.A.V.P.Vijitha Pandithasekaraසම්බන්ධ වීම : 011-2611517සම්බන්ධීකරණ නිලධාරීEng.M.D.S.Wijayabandaraතනතුර : General Managerදුරකථන : 0112638015සාමාන්‍ය තොරතුරුTelephones : 011-2607560, 011-2632146Fax Nos : 011-2624191Email : info@sdcc.lkWebsite : www.sdcc.lkOther Office Details:Other Key Personnel
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+NAME/
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+DESIGNATION
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+TELEPHONE
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+FAX
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+E-MAIL
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+Deepal Gunasekara
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+(Working Director)
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+011-4014721
+Normal
+0
+false
+false
+false
+EN-US
+X-NONE
+TA
+/* Style Definitions */
+table.MsoNormalTable
+{mso-style-name:"Table Normal";
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-style-noshow:yes;
+mso-style-priority:99;
+mso-style-qformat:yes;
+mso-style-parent:"";
+mso-padding-alt:0in 5.4pt 0in 5.4pt;
+mso-para-margin-top:0in;
+mso-para-margin-right:0in;
+mso-para-margin-bottom:10.0pt;
+mso-para-margin-left:0in;
+line-height:115%;
+mso-pagination:widow-orphan;
+font-size:11.0pt;
+font-family:"Calibri","sans-serif";
+mso-ascii-font-family:Calibri;
+mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:"Times New Roman";
+mso-fareast-theme-font:minor-fareast;
+mso-hansi-font-family:Calibri;
+mso-hansi-theme-font:minor-latin;}
+011-2624191
+�
+Dananja Nandasiri
+(Director)
+091-2255965
+091-2255967
+�
+Eng. S.D.G.R Sandanayake
+(Director)
+�
+�
+�
+Eng. R.M Jinadasa
+(Director)
+055-2224830
+�
+�
+Eng. Jayantha Ranjan Bopitiya
+(Director)
+011-2505675
+�
+�
+C.N Balasooriya
+(Director)
+011-2484629
+011-2484624
+�
+Eng. M.D.S Wijayabandara
+(General Manager)
+011-2638015
+011-2624191
+sdcc@eureka.lk
+Eng. M.M Wijerathna
+DGM (Construction)
+011-2611516
+011-2625909
+sdccl@sltnet.lk
+Eng. D.S.D.D.C Rajasinghe
+DGM (Design &amp; Planning)
+011-2625270
+011-2625270
+sdccdpp@gmail.com
+Eng. Damayanthi Perera
+DGM (Performance Monitoring Unit)
+011-2605748
+011-2605748
+sdccpmu@sltnet.lk
+Eng. W.G Dharmasena
+DGM (Mechanical)
+011-2634698
+011-2634698
+dgmme@yahoo.com
+K.A.G Wickramasinghe
+Senior Manager (Human Resource &amp; Administrator)
+011-2638014
+011-2624191
+sdcchr@gmail.com
+H.S.L Wijesinghe
+(Chief Financial Accountant)
+011-2605646
+011-2624191
+sdccfa@yahoo.com
+R.A.K Nishantha
+(Chief Internal Auditor)
+011-2672196
+011-2672196
+�
+Supplies Manager
+011-2638013
+011-2638013
+�
+N.A.L Somawansha
+(Chief Security Officer)
+011-2632146
+�
+�
+Eng. K.A.N.K Kulasuriya
+Civil Engineer (Contract Managment)
+011-2605748
+011-2605748
+�
+Eng. W.A.R Perera
+Chief Engineer (Peradeniya)
+081-2387056
+081-2387056
+�
+Eng. S.M.S Shakoor
+Chief Engineer (Peliyagoda)
+011-4863997
+011-4863997
+�
+Eng. K.A.U Ranjan
+Chief Engineer (Construction)
+011-2611516
+011-2625909
+�
+Eng. W.A.D.R Shantha Kumara
+Chief Engineer (Construction)
+011-2611516
+011-2625909
+�
+E.A.G Chandana
+Works Manager (Concrete Yard Ratmalana)
+011-2632786
+011-2632786
+�
+Mec. Eng. B.A.K Kulathilaka
+(Project Engineer Concrete Yard Bopitiya)
+037-2288415
+�
+�
+Eng. B.S Karunawansa
+(Project Engineer Concrete Yard Weragantota)
+055-2257101
+055-2257101
+�
+Project Engineer Concrete Yard Medawachchiya
+025-3899916
+�
+�
+සපයන සේවාවන්:   Concrete products   Construction
+අවසන් වරට මෙම පිටුව යාවත්කාලීන කලේ :2012-07-23 10:42:24
+අපව අමතන්න
+අන්තර්ජාල අතරමැදි සේවා
+&nbsp;
+&raquo;
+ග්&zwj;රාම නිලධාරී
+&nbsp;
+&raquo;
+ග්&zwj;රාම නිලධාරී
+&nbsp;
+&raquo;
+සෞඛ්&zwj;ය වෛද්&zwj;ය නිලධාරී
+&nbsp;
+&raquo;
+සෞඛ්&zwj;ය වෛද්&zwj;ය නිලධාරී
+&nbsp;
+&raquo;
+මහජන සෞඛ්&zwj;ය පරීක්ෂක
+&nbsp;
+&raquo;
+පවුල් සෞඛ්&zwj;ය නිලධාරීනී
+&nbsp;
+&raquo;
+පොලිස් ස්ථානය
+-->
+»
+දුම්රිය කාලසටහන
+»
+අන්තර්ජාල අතරමැදි සේවා
+තවදුරටත්
+ඉතා ජනප්‍රිය
+1) මුල් වරට හැදුනුම්පතක් ලබාගැනිම2) දුම්රිය වල ආසන ‍ වෙන් කර ගැනීම3) නව රියැදුරු බලපත්‍ර ලබා ගැනීම.4) මෝටර් රථ වාහන ලියාපදිංචිය පැවරීම.5) විවාහ සහතිකවල පිටපත් ලබා ගැනීම1) මුල් වරට හැදුනුම්පතක් ලබාගැනිම2) දුම්රිය වල ආසන ‍ වෙන් කර ගැනීම3) නව රියැදුරු බලපත්‍ර ලබා ගැනීම.4) මෝටර් රථ වාහන ලියාපදිංචිය පැවරීම.5) විවාහ සහතිකවල පිටපත් ලබා ගැනීම1) මුල් වරට හැදුනුම්පතක් ලබාගැනිම2) දුම්රිය වල ආසන ‍ වෙන් කර ගැනීම3) නව රියැදුරු බලපත්‍ර ලබා ගැනීම.4) මෝටර් රථ වාහන ලියාපදිංචිය පැවරීම.5) විවාහ සහතිකවල පිටපත් ලබා ගැනීම1) මුල් වරට හැදුනුම්පතක් ලබාගැනිම2) දුම්රිය වල ආසන ‍ වෙන් කර ගැනීම3) නව රියැදුරු බලපත්‍ර ලබා ගැනීම.4) මෝටර් රථ වාහන ලියාපදිංචිය පැවරීම.5) විවාහ සහතිකවල පිටපත් ලබා ගැනීම1) මුල් වරට හැදුනුම්පතක් ලබාගැනිම2) දුම්රිය වල ආසන ‍ වෙන් කර ගැනීම3) නව රියැදුරු බලපත්‍ර ලබා ගැනීම.4) මෝටර් රථ වාහන ලියාපදිංචිය පැවරීම.5) විවාහ සහතිකවල පිටපත් ලබා ගැනීම
+අලුත් සේවා
+ප්‍රාදේශීය සංවර්ධන අංශයපුස්තකාල සේවය (වෙළඳ තොරතුරු)අපනයන සැකසුම් ව්‍යවසාය සංවර්ධනය
+Stay Connected
+යාවත්කාල කලේ: 2018-06-19
+පරිශීලකයන් ගණන:සබැදි පරිශීලකයන්  : 107
+The Government Information Center
+උදව්   අප අමතන්න
+© ප්‍රකාශණ හිමිකම 2009 රා.තො.කේ (සියලුම හිමිකම් ඇවිරිනි)ICTA සමග සම්බන්ධවී සාදන ලදී
+

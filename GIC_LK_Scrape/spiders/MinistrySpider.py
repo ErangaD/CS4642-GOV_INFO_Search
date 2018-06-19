@@ -8,20 +8,16 @@ import re
 class MinistersSpider(CrawlSpider):
     name = 'crawler'
     allowed_domains = ["gic.gov.lk"]
-    start_urls = ['http://www.gic.gov.lk/gic/index.php/en/component/org/?id=172&task=org']
+    start_urls = ['http://www.gic.gov.lk/gic/index.php/en/component/org/']
 
     rules = (
-        Rule(LinkExtractor(), callback='parse_item', follow=True),
+        Rule(LinkExtractor(), callback = 'parse_item', follow=True, process_request='process_request'),
+        #
     )
 
-    count = 0
+    count = 1
     def parse_item(self, response):
-
-        print("URL: ---------------------------------------------------------------------" + str(self.count))
-
         sel = Selector(response)
-        self.count+=1
-
         filename = "data/T" + str(self.count) + ".txt"
         tags_removed_text = remove_tags(remove_tags_with_content(sel.xpath('//body').extract()[0],which_ones=('script',)))
         tabs_removed_text = tags_removed_text.replace("\t", '').replace('\r', '')
@@ -30,4 +26,16 @@ class MinistersSpider(CrawlSpider):
             for item in newLineRemovedText.split('\n'):
                 out_file.write("%s\n" % item.strip())
 
+        followed_urls = "followedURLs/urls.txt"
+        with open(followed_urls, "a") as out_file:
+            out_file.write("%s\n" % response.request.url)
+        self.count += 1
+        print(self.count)
 
+    def process_request(self, request):
+        url = request.url
+        if("component/org" in url) :
+            return request
+        # print("************************************************************************")
+        # print(url)
+        #return request
