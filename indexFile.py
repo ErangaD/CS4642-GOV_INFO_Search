@@ -15,20 +15,7 @@ def parsetexts(fileglob='data/T*.txt'):
     return texts, words
 
 texts, words = parsetexts()
-print('\nTexts')
-# pp(texts)
-print('\nWords')
-# pp(sorted(words))
 
-# invindex = {word: set(txt
-#                       for txt, wrds in texts.items() if word in wrds)
-#             for word in words}
-print('\nInverted Index')
-# pp({k: sorted(v) for k, v in invindex.items()})
-
-terms = ["Visiting"]
-# print('\nTerm Search for: ' + repr(terms))
-# pp(sorted(termsearch(terms)))
 
 from collections import Counter
 
@@ -66,17 +53,9 @@ finvindex = {word: set((txt, wrdindx)
                        for wrdindx in (i for i, w in enumerate(wrds) if word == w)
                        if word in wrds)
              for word in words}
-print('\nFull Inverted Index')
-# pp({k: sorted(v) for k, v in finvindex.items()})
 
-# print('\nTerm Search on full inverted index for: ' + repr(terms))
-# pp(sorted(termsearch(terms)))
 
-# phrase = '"Reservation of Seats"'
-# print('\nPhrase Search for: ' + phrase)
-# print(phrasesearch(phrase))
 
-# Show multiple match capability
 phrase = '"කෘෂි හා කාර්මික නිෂ්පාදන සඳහා"'
 print('\nPhrase Search for: ' + phrase)
 ans = phrasesearch(phrase)
