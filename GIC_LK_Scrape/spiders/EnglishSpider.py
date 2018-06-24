@@ -5,8 +5,8 @@ from w3lib.html import remove_tags, remove_tags_with_content
 from scrapy.selector import Selector
 import re
 
-class MinistersSpider(CrawlSpider):
-    name = 'crawler'
+class EnglishSpider (CrawlSpider):
+    name = 'englishCrawler'
     allowed_domains = ["gic.gov.lk"]
     start_urls = ['http://www.gic.gov.lk/gic/index.php/en/component/org/']
 
