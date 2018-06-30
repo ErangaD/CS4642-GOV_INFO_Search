@@ -2,10 +2,10 @@ from pprint import pprint as pp
 from glob import glob
 
 from functools import reduce
-raw_input = input
+from collections import Counter
 
 
-def parsetexts(fileglob='data/T*.txt'):
+def parsetexts(fileglob='testData/T*.txt'):
     texts, words = {}, set()
     for txtfile in glob(fileglob):
         with open(txtfile, 'r') as f:
@@ -14,12 +14,14 @@ def parsetexts(fileglob='data/T*.txt'):
             texts[txtfile.split('\\')[-1]] = txt
     return texts, words
 
-texts, words = parsetexts()
+texts = ''
+words = ''
 
+def buildIndex():
+    global texts, words
+    texts, words = parsetexts()
 
-from collections import Counter
-
-
+buildIndex()
 def termsearch(terms):  # Searches full inverted index
     if not set(terms).issubset(words):
         return set()
@@ -55,10 +57,12 @@ finvindex = {word: set((txt, wrdindx)
              for word in words}
 
 
+def searchText(phrase):
+    print('\nPhrase Search for: ' + phrase)
+    ans = phrasesearch(phrase)
+    print(ans)
+    ans = Counter(ans)
+    print('The phrase is found most commonly in text: ' + repr(ans.most_common(1)[0][0]))
 
-phrase = '"කෘෂි හා කාර්මික නිෂ්පාදන සඳහා"'
-print('\nPhrase Search for: ' + phrase)
-ans = phrasesearch(phrase)
-print(ans)
-ans = Counter(ans)
-print('  The phrase is found most commonly in text: ' + repr(ans.most_common(1)[0][0]))
+
+searchText('"Rajakaruna Mawatha,"')
