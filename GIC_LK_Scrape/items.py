@@ -7,8 +7,7 @@
 
 import scrapy
 
-
-class GicLkScrapeItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
+class OrgItem(scrapy.Item):
+    text = scrapy.Field()
+    link = scrapy.Field()
     pass
