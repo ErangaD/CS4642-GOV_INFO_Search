@@ -19,7 +19,7 @@ class EnglishSpider(CrawlSpider):
     count = 1
     file_name = open('Output_file_sinhala.csv', 'w')  # Output_file.csv is name of output file
 
-    fieldnames = ['text', 'link']  # adding header to file
+    fieldnames = ['text', 'topic', 'link']  # adding header to file
     writer = csv.DictWriter(file_name, fieldnames=fieldnames)
     writer.writeheader()
     def parse_item(self, response):
@@ -40,7 +40,7 @@ class EnglishSpider(CrawlSpider):
         # docum['link'] = response.request.url
 
         self.writer.writerow(
-                {'text': newLineRemovedText, 'link': response.request.url})  # writing data into file.
+                {'text': newLineRemovedText, 'topic': newLineRemovedText[:50], 'link': response.request.url})  # writing data into file.
         self.count += 1
         print(self.count)
 
