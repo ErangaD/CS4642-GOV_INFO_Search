@@ -12,4 +12,4 @@ def get_search_field(request):
         print(search_term)
         blog_entries = getSearchResults(search_term)
 
-    return render(request, 'current_datetime.html', {'blog_entries': blog_entries})
+    return render(request, 'current_datetime.html', {'blog_entries': blog_entries, 'search_field':search_term})
